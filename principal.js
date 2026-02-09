@@ -1,4 +1,4 @@
-var banners = ["Os melhores do Brasil!", "QUalidade e preço Baixo!"];
+var banners = ["Os melhores do Brasil!", "Qualidade e preço Baixo!"];
 var bannerAtual = 0
 
 function trocaBanner(){
